@@ -50,7 +50,10 @@ public class Switch {
                 //Faça isso
                 System.out.println("Não ganhou premio");
                 break; //Pare
-
         }
+        //Print para indicar "fim do codigo"
+        System.out.println("Fim do codigo");
+        
+        //FIM
     }
 }
