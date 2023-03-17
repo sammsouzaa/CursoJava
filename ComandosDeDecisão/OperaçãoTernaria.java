@@ -1,3 +1,4 @@
+package ComandosDeDecisão;
 
 //Primeiramente iniciamos a class publica do programa
 public class OperaçãoTernaria {

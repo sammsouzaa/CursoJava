@@ -1,3 +1,4 @@
+package ComandosDeDecisão;
 
 //Primeiramente iniciamos a class publica do programa
 public class Switch {
@@ -53,7 +54,7 @@ public class Switch {
         }
         //Print para indicar "fim do codigo"
         System.out.println("Fim do codigo");
-        
+
         //FIM
     }
 }
