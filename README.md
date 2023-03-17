@@ -1,2 +1,3 @@
 # Aprendendo Java
-Alguns arquivos dos eus estudos de java
+
+Alguns arquivos dos meus estudos de java (fora do meu horario de aula)
