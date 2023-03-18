@@ -1,4 +1,4 @@
-package EntradaDeDados;
+package EntradaDosDados;
 
 import java.util.Scanner;
 
@@ -6,8 +6,8 @@ public class somaSimples {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
-        
-        int n1=0, n2=0, res=0;
+
+        int n1 = 0, n2 = 0, res = 0;
 
         System.out.println("Digite um numeral: ");
         n1 = entrada.nextInt();
