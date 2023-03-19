@@ -1,8 +1,9 @@
+package entradadedados;
 
 //Primeiramente importamos o "Scanner" da classe Java.util
 import java.util.Scanner;
 
-public class somaSimples {
+public class asomaSimples {
     public static void main(String[] args) {
 
         //criamos uma variavel "Entrada" do tipo Scanner
