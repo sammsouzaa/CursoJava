@@ -37,7 +37,6 @@ public class mediaaluno {
         else{
             status = "Reprovado";
         }
-
         System.out.printf("O aluno %s foi %s com a nota %d", nome, status, mediadoaluno);
 
         System.out.print("\nFim do programinha");
