@@ -1,3 +1,3 @@
-# Aprendendo Java
+# Leraning Java
 
-Alguns arquivos dos meus estudos de java (fora da sala de aula)
+Some files from my java studies (outside the classroom)
