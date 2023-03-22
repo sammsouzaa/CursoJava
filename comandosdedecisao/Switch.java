@@ -1,4 +1,4 @@
-package comandosdedecisão;
+package comandosdedecisao;
 
 //Primeiramente iniciamos a class publica do programa
 public class Switch {
