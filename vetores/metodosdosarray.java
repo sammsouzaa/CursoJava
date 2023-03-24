@@ -23,9 +23,10 @@ public class metodosdosarray{
         Arrays.equals(num, numeros); //Compara um array com outro e retorna um "boolean" se forem iguais retorna true, se forem diferentes retorna false/null.
         System.out.printf("Os arrays são iguais? %s ", Arrays.equals(num, numeros) ? "Sim" : "Não" );
 
-        pos = Arrays.binarySearch(numeros, p); //verifica se o elemento p esta no array, e retorna um inteiro, se estiver o retorno é um numero>0, se nao retorna um numero<0
+        pos = Arrays.binarySearch(numeros, p); //verifica se o elemento p esta no array, e retorna um inteiro, se estiver no array retorna a posição, se nao retorna um numero<0;
         //CONDIÇÃO: Para o binarysearch dar certo, antes precisamos ordenar nosso array;
-        System.out.printf("O elemento %d? esta no array? %s", p , pos > 0 ? "Esta no array" : "Não esta no array" );
+        System.out.printf("O elemento %d? esta no array? %s na posição %d", p , pos > 0 ? "Esta no array" : "Não esta no array", pos );
+
 
         //"FOR" especifico para ler os elementos de um array;
         for(int n:numeros){
