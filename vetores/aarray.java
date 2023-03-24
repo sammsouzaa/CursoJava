@@ -2,7 +2,7 @@ package vetores;
 
 import java.util.Scanner;
 
-public class aarrays {
+public class aarray {
 
     public static void main(String[] args) {
 
