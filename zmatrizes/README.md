@@ -2,7 +2,6 @@
 # Modelo demonstrativo de como funciona a matriz;
 
 ```
-
 final int linhas = 3;
 final int colunas = 3;
 
