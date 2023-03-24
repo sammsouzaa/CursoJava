@@ -10,7 +10,7 @@ public class looping {
         for(int cont=51; cont <= 5; cont--){
             System.out.println(cont + " - Samuel é um gostoso");
         }
-        
+
 
         /* WHILE (Estrutura base do codigo)*/
 
@@ -22,7 +22,7 @@ public class looping {
             System.out.println(cont + " - Samuel é um gostoso");
             cont=+1;
         }
-        
+
 
         /* DO WHILE (Estrutura base do codigo) */
 
