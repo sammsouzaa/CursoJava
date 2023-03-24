@@ -41,7 +41,7 @@ public class zmatrizes {
         //Um print para pular uma linha na saida
         System.out.printf("%n");
 
-        //Imprimindo a matriz "numeros"
+        //Imprimindo a matriz "num"
         for (int[]n:num){
             for(int v:n){
                 System.out.printf("%3d | ", v);
