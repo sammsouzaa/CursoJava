@@ -1,4 +1,4 @@
-package comandosdedecisao;
+package conceitosBasicos.comandosdedecisao;
 
 //Primeiramente iniciamos a class publica do programa
 public class IFeELSE {

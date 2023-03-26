@@ -1,4 +1,4 @@
-package zmatrizes;
+package conceitosBasicos.wmatrizes;
 import java.security.SecureRandom;
 
 public class zmatrizes {

@@ -1,4 +1,4 @@
-package tiposdelooping;
+package conceitosBasicos.tiposdelooping;
 import java.util.Scanner;
 
 public class looping {

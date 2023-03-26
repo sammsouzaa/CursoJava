@@ -1,4 +1,4 @@
-package zmetodos;
+package metodos;
 
 import java.util.Scanner;
 //Criamos uma classe

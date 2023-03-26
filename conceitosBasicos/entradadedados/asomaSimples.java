@@ -1,4 +1,4 @@
-package entradadedados;
+package conceitosBasicos.entradadedados;
 
 //Primeiramente importamos o "Scanner" da classe Java.util
 import java.util.Scanner;

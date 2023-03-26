@@ -1,4 +1,4 @@
-package entradadedados;
+package conceitosBasicos.entradadedados;
 
 import java.util.Scanner;
 
