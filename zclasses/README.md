@@ -1,4 +1,5 @@
 # O QUE É UMA CLASSE?
+
 - Pensando de uma maneira simples, a classe é um objeto que vai ser usado no nosso programa!!
 - Dentro desse objeto, temos suas funcionalidades (que são os metodos);
 
@@ -6,10 +7,11 @@
 
 - Primeiro declaramos o modificador de acesso;
 - Indicamos que é uma class digitando "class";
-- Damos um nome da class (o nome da class obrigatoriamente tem que ser o mesmo nome do arquivo.java);
+- Damos um nome da class;
+- IMPORTANTE: o nome da class obrigatoriamente tem que ser o mesmo nome do arquivo.java;
 
 ```
-Public class Jogador{
+public class Jogador{
 
 }
 ```
