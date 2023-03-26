@@ -1,7 +1,9 @@
 # O QUE É UMA CLASSE?
 
-- Pensando de uma maneira simples, a classe é um objeto que vai ser usado no nosso programa!!
-- Dentro desse objeto, temos suas funcionalidades (que são os metodos);
+- De uma maneira simples, a classe serve para criarmos objetos que serão usados no nosso programa!!
+- Dentro de uma classe, podemos ter varios objetos;
+- Cada objeto funciona totalmente independente de quaisquer outros objetos; porém todos os objetos seguem as regras determinadas pela classe;
+
 
 ## Estrutura simples de uma "class":
 
