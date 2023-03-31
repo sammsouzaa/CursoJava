@@ -9,5 +9,6 @@ public class DialogBoxes {
     nome = JOptionPane.showInputDialog("Digite seu nome:");
     mensagem.append("Bem-vindo ").append(nome).append("!");
     JOptionPane.showMessageDialog(null, mensagem);
+    
   }
 }
