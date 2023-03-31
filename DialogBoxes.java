@@ -1,5 +1,3 @@
-package atividades_1bimestre;
-
 import javax.swing.JOptionPane;
 
 public class DialogBoxes {
