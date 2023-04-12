@@ -4,7 +4,7 @@
 - Dentro de uma classe, podemos ter varios objetos;
 - Cada objeto funciona totalmente independente de quaisquer outros objetos; porém todos os objetos seguem as regras determinadas pela classe;
 
-## Estrutura simples de uma "class":
+### Estrutura simples de uma "class":
 
 - Primeiro declaramos o modificador de acesso;
 - Indicamos que é uma class digitando "class";
@@ -16,7 +16,7 @@ public class Jogador{
 
 }
 ```
-## Tipos de metodos de uma classe secundaria;
+# Tipos de metodos de uma classe secundaria;
 
 ### Metodo construtor
 
