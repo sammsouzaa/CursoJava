@@ -41,7 +41,7 @@ private int vidas = 3;
 
 public int getVidas(){
         return this.vidas;
-    }
+}
 ```
 
 ### Metodo SET:
