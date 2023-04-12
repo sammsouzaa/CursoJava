@@ -16,9 +16,9 @@ public class Jogador{
 
 }
 ```
-# Tipos de metodos de uma classe secundaria;
+# Tipos de metodos de uma classe secundaria:
 
-### Metodo construtor
+### Metodo construtor:
 
 - Ele é executado automaticamente quando é declarado como um objeto;
 - Para ser um metodo construtor, o metodo deve ter o mesmo nome da classe;
@@ -31,7 +31,7 @@ public class Jogadores{
 }
 ```
 
-### Metodo GET
+### Metodo GET:
 
 - Ele é criado dentro da classe secundaria;
 - Tem como objetivo mostrar para a classe principal algum valor de uma variavel private da classe secundaria;
@@ -44,7 +44,7 @@ public int getVidas(){
     }
 ```
 
-### Metodo SET
+### Metodo SET:
 
 - Ele é criado dentro da classe secundaria;
 - Tem como objetivo declarar um valor a uma variavel private da classe secundaria pela a classe principal;
